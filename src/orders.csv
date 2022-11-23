@@ -1,0 +1,4 @@
+customer_name,customer_address,customer_phone,customer_courier,status,items
+Archi,Louisa street,021-36942317,2,Preparing,"3, 1, 4, 7"
+Robert Brown,Blackburn Road,021-36681970,1,Preparing,"3, 6, 7, 1"
+Keny,Traford Center,0745896321,2,Preparing,"1, 3"
